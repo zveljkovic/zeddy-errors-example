@@ -1,0 +1,7 @@
+### Throws error
+GET http://localhost:3000/error
+Accept: application/json
+
+### Throws exception
+GET http://localhost:3000/exception
+Accept: application/json
